@@ -39,7 +39,6 @@ apis:
   - name: IP Geolocation
     description: "Geolocate website visitors from their IPs"
     humanURL: https://www.abstractapi.com/ip-geolocation-api
-    baseURL: https://www.abstractapi.com/ip-geolocation-api
     tags:
       - Geocoding
     properties:
